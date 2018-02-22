@@ -5,3 +5,6 @@ numba(pypy.org)
 
 range vs xrange function.
 six third-party module.
+
+scala and carbo
+monkey patching
