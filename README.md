@@ -8,3 +8,5 @@ six third-party module.
 
 scala and carbo
 monkey patching
+duck-typing
+introspective
