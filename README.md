@@ -10,3 +10,4 @@ scala and carbo
 monkey patching
 duck-typing
 introspective
+itertools
